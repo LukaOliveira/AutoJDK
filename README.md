@@ -13,3 +13,6 @@ Download
 <p>
 <img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/>
 </p>
+<p>
+<img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/>
+</p>
