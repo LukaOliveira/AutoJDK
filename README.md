@@ -11,5 +11,5 @@ It is available in 2 different versions. The Shell version and Dialog version.
 Download
 </h1>
 <p>
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=shell&message=version&color=blue&style=for-the-badge&logo=REACT"/>
 </p>
