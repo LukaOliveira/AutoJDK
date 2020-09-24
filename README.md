@@ -1,5 +1,3 @@
-<h1 align="center"> Script AutoJDK </h1>
-<br/>
 <h1>
 What is AutoJDK?
 </h1>
