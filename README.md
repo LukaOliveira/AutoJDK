@@ -1,5 +1,1 @@
-<title>Auto JDK</title>
-
-<body background-color="gray">
-
-</body>
+<h1 align="center"> Titulo </h1>
