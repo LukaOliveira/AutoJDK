@@ -1,4 +1,4 @@
-<h1 align="center"> Script AutoJDK </h1>
+<h1 align="center" color="red"> Script AutoJDK </h1>
 <h3 align="justify">
 The AutoJDK script is a tool to facilitate the installation of the OpenJDK package
 <h3>
