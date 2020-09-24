@@ -11,11 +11,11 @@ It is available in 2 different versions. The Shell version and Dialog version.
 Download
 </h1>
 <p>
-<a href="shell"><img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/></a><br/>
+<a href="#shell"><img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/></a><br/>
 Preview: <a href="#">LINK</a>
 </p>
 <p>
-<a href="dialog"><img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/></a><br/>
+<a href="#dialog"><img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/></a><br/>
 Preview: <a href="#">LINK</a>
 </p>
 <h1>
