@@ -4,13 +4,17 @@ The AutoJDK script is a tool to facilitate the installation of the OpenJDK packa
 <h3>
 <h4>
 AutoJDK is a script made with Shell Script that has 2 different versions.
-<br/>
+</h4>
+<h4>
 Shell version:
-<br/>
+</h4>
+<h4>
 and
-<br/>
+</h4>
+<h4>
 Dialog Version:
-<br/>
+</h4>
+<h4>
 It's a tool
 efficient and simple to use, running on various Linux distributions.
 </h4>
