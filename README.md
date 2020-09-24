@@ -1,4 +1,4 @@
-#Script AutoJDK
+<title>Auto JDK</title>
 
 <body background-color="gray">
 
