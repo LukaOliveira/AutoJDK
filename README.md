@@ -11,17 +11,17 @@ It is available in 2 different versions. The Shell version and Dialog version.
 Download
 </h1>
 <p>
-<a href="#"><img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/></a><br/>
+<a href="shell"><img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/></a><br/>
 Preview: <a href="#">LINK</a>
 </p>
 <p>
-<a href="#"><img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/></a><br/>
+<a href="dialog"><img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/></a><br/>
 Preview: <a href="#">LINK</a>
 </p>
 <h1>
 How to use?
 </h1>
-<h3>
+<h3 id="shell">
 Shell Version:
 </h3>
 <p>
@@ -49,7 +49,7 @@ Shell Version:
 
     9º Now restart your computer to finish!
 </p>
-<h3>
+<h3 id="dialog">
 Dialog Version:
 </h3>
 <p>
