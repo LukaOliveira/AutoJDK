@@ -36,7 +36,8 @@ function installJDK (){
         fi
             echo "OpenJDK-16 Installed successfully! Restart your computer to finish!"
             exit 1 ;;
-    *) echo "xablau"
+    *) echo "Invalid
+    "
     esac
 }
 
