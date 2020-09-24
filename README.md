@@ -54,7 +54,7 @@ Dialog Version:
 <p>
     1º Open the terminal.
 
-    1.1º Install the Dialog. Type: pacman -S Dialog in ArchLinux or based distros ; Type: apt-get Dialog git in Debian / Ubuntu or based distros ; Type: yum install Dialog in Fedora or based distros.
+    1.1º Install the Dialog. Type: pacman -S dialog in ArchLinux or based distros ; Type: apt-get dialog git in Debian / Ubuntu or based distros ; Type: yum install dialog in Fedora or based distros.
 
     2º Type: git clone https://gitlab/Draiderz/autojdk.git
 
