@@ -1,4 +1,4 @@
 <h1 align="center"> Script AutoJDK </h1>
-<div style="margin: 0 auto; border: 1px solid black;">
-    &nbsp;
-</div>
+<h4 align="justify">
+    The AutoJDK script is a tool to facilitate the installation of the OpenJDK package
+<h4>
