@@ -2,7 +2,7 @@
 <h3 align="justify">
 The AutoJDK script is a tool to facilitate the installation of the OpenJDK package
 <h3>
-<h4 style="font-size: 24px;">
+<h4 style="font-size: 2px;">
 AutoJDK is a script made with Shell Script that has 2 different versions.
 </h4>
 <h4>
