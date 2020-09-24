@@ -2,13 +2,10 @@
 
 <head>
 <style>
-    body{
-        background-color: gray;
-    }
 
 
 </style>
 </head>
-<body>
+<body background-color="gray">
 
 </body>
