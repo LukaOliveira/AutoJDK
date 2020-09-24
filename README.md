@@ -1,7 +1,7 @@
 <h1 align="center"> Script AutoJDK </h1>
-<h2 align="justify">
+<h3 align="justify">
 The AutoJDK script is a tool to facilitate the installation of the OpenJDK package
-<h2>
+<h3>
 <h4>
 AutoJDK is a script made with Shell Script that has 2 different versions.
 </h4>
