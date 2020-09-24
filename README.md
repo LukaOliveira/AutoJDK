@@ -1,20 +1,8 @@
-<h1 align="center" color="red"> Script AutoJDK </h1>
-<h3 align="justify">
-The AutoJDK script is a tool to facilitate the installation of the OpenJDK package
-<h3>
-<h4 style="font-size: 2px;">
-AutoJDK is a script made with Shell Script that has 2 different versions.
-</h4>
-<h4>
-Shell version:
-</h4>
-<h4>
-and
-</h4>
-<h4>
-Dialog Version:
-</h4>
-<h4>
-It's a tool
-efficient and simple to use, running on various Linux distributions.
-</h4>
+<h1 align="center"> Script AutoJDK </h1>
+<br/>
+<h1>
+What is AutoJDK?
+</h1>
+<p>
+AutoJDK is a tool made in Shell Script to facilitate the installation of the OpenJDK package in several Linux distributions.
+</p>
