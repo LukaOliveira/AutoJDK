@@ -11,8 +11,8 @@ It is available in 2 different versions. The Shell version and Dialog version.
 Download
 </h1>
 <p>
-<img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Version&message=Shell&color=blue&style=for-the-badge"/></a>
 </p>
 <p>
-<a href="https://google.com"><img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Version&message=Dialog&color=green&style=for-the-badge"/></a>
 </p>
