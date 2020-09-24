@@ -22,7 +22,20 @@ Preview: <a href="#">LINK</a>
 How to use?
 </h1>
 <h3>
-Shell Version
+Shell Version:
 </h3>
 <p>
+    1º Open the terminal.
+
+    2º Type: git clone https://gitlab/Draiderz/autojdk.git
+
+    3º Type: cd autojdk.
+
+    4º Type: sudo bash shellJDK.sh or sudo ./shellJDK.sh
+
+    5º Wait 5 seconds to start the installation.
+
+    6º Chosse a version.. Type: 14 or 15 or 16.
+
+    6.1º If you choose version 16, a message will appear saying that the version is in beta. Type yes to continue or no to choose another version.
 </p>
