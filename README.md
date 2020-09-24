@@ -29,6 +29,8 @@ Shell Version:
 
     2º Type: git clone https://gitlab/Draiderz/autojdk.git
 
+    2.1º If you don't have git installed. Type: pacman -S git in ArchLinux or based distros ; Type: apt-get install git in Debian / Ubuntu or based distros ; Type: yum install git in Fedora or based distros.
+
     3º Type: cd autojdk.
 
     4º Type: sudo bash shellJDK.sh or sudo ./shellJDK.sh
@@ -38,4 +40,12 @@ Shell Version:
     6º Chosse a version.. Type: 14 or 15 or 16.
 
     6.1º If you choose version 16, a message will appear saying that the version is in beta. Type yes to continue or no to choose another version.
+
+    7º Wait for the end of download to continue
+
+    7.1º If you did not run the script as root, a message will be displayed asking for your password.
+
+    8º Wait for the files to be extracted
+
+    9º Now restart your computer to finish!
 </p>
